@@ -1,2 +1,0 @@
-# isdemuRep
-repositorio isdemu
